@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">hollam</string>
+    <string name="login_title">hollam</string>
+    <string name="login_subtitle">التقط اللحظة وشاركها فوراً</string>
+    <string name="login_email_hint">البريد الإلكتروني</string>
+    <string name="login_password_hint">كلمة المرور</string>
+    <string name="login_button">تسجيل الدخول</string>
+    <string name="signup_button">إنشاء حساب جديد</string>
+    <string name="guest_login_button">تجربة سريعة بدون حساب</string>
+    <string name="error_empty_fields">يرجى إدخال البريد الإلكتروني وكلمة المرور</string>
+    <string name="error_short_password">يجب أن تكون كلمة المرور 6 أحرف على الأقل</string>
+</resources>

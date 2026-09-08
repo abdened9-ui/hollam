@@ -1,0 +1,6 @@
+{
+  "name": "hollam",
+  "description": "تطبيق hollam - منصة تواصل اجتماعي تعتمد كلياً على الإيماءات مع كاميرا لحظية، شاشة محادثات، قصص ومحتوى شائع، ملف شخصي، وخريطة تفاعلية للأصدقاء.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
